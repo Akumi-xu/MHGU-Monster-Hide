@@ -1,6 +1,7 @@
 # 怪物显隐
 
-- [MHGU怪物隐藏.zip](02_build/%E6%88%90%E5%93%81MOD/%E6%80%AA%E7%89%A9%E6%98%BE%E9%9A%90/MHGU%E6%80%AA%E7%89%A9%E9%9A%90%E8%97%8F.zip)
+[怪物显隐](https://github.com/Akumi-xu/MHGU-Monster-Hide/releases/download/archive-2026-11-14/MHGU-Monster-Hide.zip) · [发布说明](https://github.com/Akumi-xu/MHGU-Monster-Hide/releases/tag/archive-2026-11-14)
+
 
 [完整源码与功能说明](01_plugins/monster_hide/)。包内提供安装说明；安装包按原样保存。
 
@@ -12,3 +13,5 @@ python .\06_tools\patches\pack_monster_hide.py
 ```
 
 2026-11-14 上传已有安装包与当前源码快照；ZIP 完整性及包内 NRO 重定位检查通过，本次未重新编译或进行游戏测试。Eden / Switch 需要另装兼容的 Forge 前置；源码快照不保证与历史二进制逐字节复现。
+
+仓库保存展开的源码与构建材料；安装包统一从 Release 下载。历史版本及标签保持原样。
